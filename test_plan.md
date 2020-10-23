@@ -5,11 +5,11 @@
 ## 4 TEST ITEMS
 ## 5 SOFTWARE RISK ISSUES 
 ## 6 FEATURES TO BE TESTED 
--Login & Logout
--Alta de materias
--Baja de materias
--Cambios en calendario
--Actualización de materias
+*Login & Logout
+*Alta de materias
+*Baja de materias
+*Cambios en calendario
+*Actualización de materias
 ## 7 FEATURES NOT TO BE TESTED 
 ## 8 APPROACH
 ## 9 ITEM PASS/FAIL CRITERIA 
