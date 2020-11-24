@@ -1,6 +1,6 @@
-# SAMPLE MASTER TEST PLAN 
+# SAMPLE MASTER TEST PLAN<br>
 ## Tabla de contenido 
-1.- [TEST PLAN IDENTIFIER] ()
+1.- [**TEST PLAN IDENTIFIER**] (https://github.com/Ingenieria-de-Software-ITAM-2020/Floppy/blob/main/test_plan.md#1-test-plan-identifier)
 ## 1 TEST PLAN IDENTIFIER
 ## 2 REFERENCES
 ## 3 INTRODUCTION
