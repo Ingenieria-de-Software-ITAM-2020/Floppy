@@ -260,6 +260,28 @@ Estando en la pantalla de chats habrá una opción para crear directorios nuevos
 * **REQ3:** Si hay un profesor o administrativo en el grupo las reglas de horario laboral y días hábiles aplican, también podrán ser desactivadas si el 
 profesor/administrador lo desea.
 
+### Búsqueda
+
+#### Descripción y prioridad
+Prioridad 2
+Los usuarios podrán buscar a otros miembros de la comunidad y comunicarse con ellos vía mensaje. Los alumnos podrán buscar a otros alumnos y a profesores. Los profesores 
+y administrativos podrán buscar a cualquier miembro de la comunidad. 
+
+#### Secuencias de Respuesta
+Las búsquedas están disponibles únicamente en la vista de chats.
+* En la vista de chats, las búsquedas se harán dependiendo del directorio de chat en el que el usuario se encuentre. En los directorios personalizados, la barra de 
+búsqueda sirve para encontrar chats dentro del directorio actual. 
+* Al empezar a escribir en la barra de búsqueda, primero se darán recomendaciones de los miembros de los grupos a los que perteneces y después de todos los demás
+miembros de la comunidad. 
+
+#### Requerimientos Funcionales 
+* **REQ1:** Al buscar a un miembro de la comunidad con el que no se tenga un chat abierto, antes de enviar algo deberás pedir permiso al tercero para iniciar un chat. 
+* **REQ2:** Las búsquedas se hacen por directorio.
+* **REQ3:** Recomendaciones por cercanía de miembros basadas en medidas de clases y chats en común.
+
+
+
+
 ## Otros requerimientos No Funcionales 
 ### Requisitos de desempeño
 Este sistema se debe de poder adaptar para que en períodos determinados pueda recibir más de cinco mil usuarios concurrentes que van a enviar y recibir mensajes usando 
