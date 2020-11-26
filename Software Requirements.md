@@ -276,11 +276,17 @@ Mientras que la seguridad a nivel informático consistirá en aplicar barreras d
 
 En conclusión en cuanto a seguridad es importante proteger la información, como todo sistema informático:
 * Confidencialidad
-** Acceso solo a usuarios autorizados
+  * Acceso solo a usuarios autorizados
 * Integridad
-** Permisos para modificar la BD sólo para usuarios autorizados. (envío de mensajes)
+  * Permisos para modificar la BD sólo para usuarios autorizados. (envío de mensajes)
 * Disponibilidad 
-** Los recursos estarán disponibles solo para usuarios autorizados.
+  * Los recursos estarán disponibles solo para usuarios autorizados.
+#### Atributos de callidad del Software 
+Para garantizar la calidad de nuestro servicio, es necesario tener en cuenta la disponibilidad de la plataforma en las fechas que son necesarias, durante un semestre en curso, para ello se realizarán pruebas funcionales. 
+#### Reglas de negocio 
+* Solo los miembros de la comunidad podrán entrar a mandar mensajes.
+* Los contactos de miembros de la comunidad solo estarán a la vista de otros miembros de la comunidad.
+* Las conversaciones serán privadas pero estarán almacenadas durante 6 meses en una BD, esto para facilitar el acceso a las conversaciones desde múltiples dispositivos.
 
 
     
