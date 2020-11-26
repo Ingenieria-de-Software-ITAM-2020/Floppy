@@ -260,9 +260,28 @@ Estando en la pantalla de chats habrá una opción para crear directorios nuevos
 * **REQ3:** Si hay un profesor o administrativo en el grupo las reglas de horario laboral y días hábiles aplican, también podrán ser desactivadas si el 
 profesor/administrador lo desea.
 
-
+### Otros requerimientos No Funcionales 
+#### Requisitos de desempeño
+Este sistema se debe de poder adaptar para que en períodos determinados pueda recibir más de cinco mil usuarios concurrentes que van a enviar y recibir mensajes usando el sistema, aún cuando en promedio va a tener menos de mil usuarios concurrentes, esto es solo para tener un buen margen de error 
      
-  
+#### Requisitos de confiabilidad 
+El aumento de la complejidad de autenticación del software garantiza la seguridad del sistema. Se pueden utilizar enfoques de verificación formales para probar el software; sin embargo, incluso el software probado y estresado puede tener problemas. Se usarán logs en el sistema para avisar a los administradores en caso de encontrar algún intento de robo de datos. 
+
+#### Requisitos de seguridad
+Si vamos a manejar y almacenar datos y conversaciones privadas de cada miembro de la comunidad. La seguridad física y la seguridad a nivel informático es importante, es decir, si pensamos usar los servidores del ITAM, es necesario contemplar una restricción de acceso al personal e implementar un plan de backup para los datos en caso de cualquier falla. Así como el mantenimiento de los servidores:
+* Control de humedad y temperatura
+* Aire acondicionado 
+
+Mientras que la seguridad a nivel informático consistirá en aplicar barreras de seguridad que resguarden la información, de tal manera que se pueda evitar el robo, copia, alteración y/o difusión de los datos sin autorización , para ello es importante tener barreras de acceso a cada módulo.
+
+En conclusión en cuanto a seguridad es importante proteger la información, como todo sistema informático:
+* Confidencialidad
+** Acceso solo a usuarios autorizados
+* Integridad
+** Permisos para modificar la BD sólo para usuarios autorizados. (envío de mensajes)
+* Disponibilidad 
+** Los recursos estarán disponibles solo para usuarios autorizados.
+
 
     
 
