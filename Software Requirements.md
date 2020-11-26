@@ -288,6 +288,8 @@ Para garantizar la calidad de nuestro servicio, es necesario tener en cuenta la 
 * Los contactos de miembros de la comunidad solo estarán a la vista de otros miembros de la comunidad.
 * Las conversaciones serán privadas pero estarán almacenadas durante 6 meses en una BD, esto para facilitar el acceso a las conversaciones desde múltiples dispositivos.
 
+### Otros requerimientos 
+La base de datos de miembros debe ser la misma que la base de datos actual del ITAM, esto es para que toda la información y registros que se creen puedan ser vistos rápidamente en los otros sistemas del ITAM.
 
     
 
