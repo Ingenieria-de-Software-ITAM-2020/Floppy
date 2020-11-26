@@ -3,7 +3,7 @@
 ![Logo](https://github.com/Ingenieria-de-Software-ITAM-2020/Floppy/blob/main/Logo.png)
 
 # Índice
-- [Prototipo](prototipo)
+- [Prototipo](https://pr.to/F2F5MF/)
 - [Software Requirements](Software%20Requirements.md)
 - [Plan de Calidad](Plan%20de%20Calidad.md)
 - [Arquitectura](Arquitectura.md)
