@@ -66,3 +66,18 @@ Para pruebas generales de la aplicación se requieren:
 
 ## Necesidades de personal y capacitación
 Para llevar a cabo las primeras pruebas del prototipo el personal que haga las pruebas no necesita ninguna capacitación ademas de entender completamente la funcionalidad que está probando y las métricas que se estarán usando para probar dicha funcionalidad.
+
+## Responsabilidades
+El equipo de pruebas está formado con las cuatro personas que estan desarrollando la aplicación (Francisco Aramburu, Fernanda Martinez, Dan Jinich y Eyal Schuller). Cada persona será respobsable de probar dos funcionalidades diferentes:
+- Francisco Aramburu:
+  - Inicio de sesión del usuario.
+  - Que el usuario pueda chatear con otros usuarios.
+- Fernanda Martinez
+  - Que el usuario pueda buscar en sus contactos.
+  - Que el usuario crear nuevos grupos.
+- Dan Jinich
+  - Que el sistema permita enviar mensajes con código de Latex y lo interprete para enseñar la ecuación correspondiente.
+  - Que el usuario pueda enviar imágenes y documentos a otros usuarios.
+- Eyal Schuller
+  - Los profesores, alumnos y personal administrativo estan organizados en su carpeta correspondiente.
+  - Habrá un chatbot para ayudar a los usuarios y responder posibles dudas que tengan.
