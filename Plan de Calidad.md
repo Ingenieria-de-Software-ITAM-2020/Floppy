@@ -20,7 +20,7 @@ El objetivo que tiene este proyecto es crear un sistema en el que los estudiante
  - Los profesores, alumnos y personal administrativo estan organizados en su carpeta correspondiente.
  - Habrá un chatbot para ayudar a los usuarios y responder posibles dudas que tengan.
 
-## Problemas de riezgo de software
+## Problemas de riesgo de software
  - Los servidores del ITAM pueden tener problemas y se cae la conexión.
  - En fechas de exámenes o fechas en las que hay muchos proyectos el tráfico de datos puede aumentar y tirar los servidores.
  - Pueden haber problemas en el interprete de Latex y que no se puedan enviar ecuaciones.
