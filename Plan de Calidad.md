@@ -51,3 +51,6 @@ En un futuro, se espera que se puedan enviar mensajes, fotos, documentos y ecuac
 ## Criterios de suspención y requisitos de reanudación
 - Las pruebas que no necesitan al servidor del ITAM y se puedan hacer localmente se harán constantemente.
 - Ls pruebas que necesiten los servidores del ITAM se suspenderán si estos no están disponibles o si hay alguna falla de seguridad en la aplicación. En el momento en el que el problema se arregle las pruebas se reanudarán.
+
+## Entregables de prueba
+El entregable de las pruebas será un documento detallado con las funcionalidades que se probaron, el modo en el que se implementaron las pruebas y los resultados de las métricas que se obtuvieron. En el caso de que sea una prueba del diseño de la aplicación se incluirá también la opinión de los usuarios en las diferentes funcionalidades que se probaron.
