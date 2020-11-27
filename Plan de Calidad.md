@@ -7,3 +7,21 @@ Las pruebas de este prototipo se harán en la plataforma [Proto IO](https://prot
 
 ## Introducción
 El objetivo que tiene este proyecto es crear un sistema en el que los estudiantes del Instituto Tecnológico Autónomo de México (ITAM) se puedan comunicar de una mejor forma entre ellos y con sus profesores. Este sistema debe de cumplir con los requerimientos de UX para las funcionalidades más importantes que necesitan sus usuarios y tener una buena documentación, metodología y arquitectura, con la meta de que el desarrollo de la aplicación sea lo más eficiente y económico posible.
+
+## Elementos de prueba
+ - La validación del usuario y contraseña se deben de poder hacer con las mismas credenciales utilizadas en Comunidad ITAM.
+ - Las pantallas se deben de desplegar correctamente.
+ - El interprete de Latex funcione correctamente.
+ - Los botones redireccionan a las pantallas correctas.
+ - Se pueden enviar y recibir mensajes con los demás usuarios.
+ - Se pueden crear nuevos grupos para tener chats.
+ - No puede haber perdida de información.
+ - Se pueden poder enviar fotos y documentos en los mensajes.
+ - Los profesores, alumnos y personal administrativo estan organizados en su carpeta correspondiente.
+ - Habrá un chatbot para ayudar a los usuarios y responder posibles dudas que tengan.
+
+## Problemas de riezgo de software
+ - Los servidores del ITAM pueden tener problemas y se cae la conexión.
+ - En fechas de exámenes o fechas en las que hay muchos proyectos el tráfico de datos puede aumentar y tirar los servidores.
+ - Pueden haber problemas en el interprete de Latex y que no se puedan enviar ecuaciones.
+ - Puede haber perdida de información y que no se envien o se reciban mensajes.
