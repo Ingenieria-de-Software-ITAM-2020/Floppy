@@ -25,3 +25,16 @@ El objetivo que tiene este proyecto es crear un sistema en el que los estudiante
  - En fechas de exámenes o fechas en las que hay muchos proyectos el tráfico de datos puede aumentar y tirar los servidores.
  - Pueden haber problemas en el interprete de Latex y que no se puedan enviar ecuaciones.
  - Puede haber perdida de información y que no se envien o se reciban mensajes.
+
+ ## Funcionalidades a probar
+  - Inicio de sesión del usuario.
+  - Que el usuario pueda chatear con otros usuarios.
+  - Que el usuario pueda buscar en sus contactos.
+  - Que el usuario crear nuevos grupos.
+  - Que el sistema permita enviar mensajes con código de Latex y lo interprete para enseñar la ecuación correspondiente.
+  - Que el usuario pueda enviar imágenes y documentos a otros usuarios.
+  - Que el chatbot del sistema pueda responder las dudas que tenga el usuario sobre cosas del ITAM.
+  - Que el sistema pueda enviar notificaciones al celular del usuario.
+
+ ## Funcionalidades que no se deben probar
+ La cuenta con la que va a ingresar el usuario debe de ser la misma que su cuenta del ITAM entonces la validez de esta cuenta no se debe de probar.
