@@ -26,15 +26,20 @@ El objetivo que tiene este proyecto es crear un sistema en el que los estudiante
  - Pueden haber problemas en el interprete de Latex y que no se puedan enviar ecuaciones.
  - Puede haber perdida de información y que no se envien o se reciban mensajes.
 
- ## Funcionalidades a probar
-  - Inicio de sesión del usuario.
-  - Que el usuario pueda chatear con otros usuarios.
-  - Que el usuario pueda buscar en sus contactos.
-  - Que el usuario crear nuevos grupos.
-  - Que el sistema permita enviar mensajes con código de Latex y lo interprete para enseñar la ecuación correspondiente.
-  - Que el usuario pueda enviar imágenes y documentos a otros usuarios.
-  - Que el chatbot del sistema pueda responder las dudas que tenga el usuario sobre cosas del ITAM.
-  - Que el sistema pueda enviar notificaciones al celular del usuario.
+## Funcionalidades a probar
+- Inicio de sesión del usuario.
+- Que el usuario pueda chatear con otros usuarios.
+- Que el usuario pueda buscar en sus contactos.
+- Que el usuario crear nuevos grupos.
+- Que el sistema permita enviar mensajes con código de Latex y lo interprete para enseñar la ecuación correspondiente.
+- Que el usuario pueda enviar imágenes y documentos a otros usuarios.
+- Que el chatbot del sistema pueda responder las dudas que tenga el usuario sobre cosas del ITAM.
+- Que el sistema pueda enviar notificaciones al celular del usuario.
 
- ## Funcionalidades que no se deben probar
- La cuenta con la que va a ingresar el usuario debe de ser la misma que su cuenta del ITAM entonces la validez de esta cuenta no se debe de probar.
+## Funcionalidades que no se deben probar
+La cuenta con la que va a ingresar el usuario debe de ser la misma que su cuenta del ITAM entonces la validez de esta cuenta no se debe de probar.
+
+## Acercamiento
+Para comenzar las pruebas, se utilizará un prototipo en Proto IO que se le enseñará a los diferentes usuarios que tendrá la aplicación (estudiantes, profesores y personal administrativo). Se utilizará la información recolectada con el prototipo para hacer cambios en el UI para que los usuarios de la aplicación la acepten lo más rápido posible. La métrica que se utilizará en esta prueba será el tiempo que toma el usuario en enviar un mensaje a una persona específica, en crear un nuevo grupo y en escribir un mensaje en ese grupo. Para hacer esto, se deben de hacer diferentes prototipos para poder comparar entre ellos e implementar el mejor en codigo. Además de esto, se debe de utilizará la métrica *Mean Time Between Failures* para ver cuales son las funcionalidades que se deben de modificar para que hayan menos errores.
+
+En la primera prueba se deberán verificar las funcionalidades que están en el apartado de las [funcionalidades a probar](#funcionalidades-a-probar) y las que están en los [elementos de prueba](#elementos-de-prueba), sin embargo, algunas funcionalidades, como el interprete de Latex o la conexión al servidor, no se pueden probar en el prototipo. Se desarrollará el código únicamente cuando esten terminadas las pruebas con el prototipo, y después se implementarán todas las pruebas usando ya el código.
