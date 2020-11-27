@@ -1,6 +1,7 @@
 # Floppy
 
 ![Logo](https://github.com/Ingenieria-de-Software-ITAM-2020/Floppy/blob/main/Logo.png)
+## María Fernanda Martínez García 173872 
 
 # Índice
 - [Prototipo](https://pr.to/F2F5MF/)
