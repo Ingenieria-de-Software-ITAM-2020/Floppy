@@ -47,3 +47,7 @@ En la primera prueba se deberán verificar las funcionalidades que están en el 
 ## Criterios de aprobación / Falla del elemento
 Por el momento solamente se está probando el front-end utilizando un prototipo entonces el criterio de aprobación sería que un usuario pueda encontrar las pantallas que se requieren para mandar un mensaje, buscar un usuario que se le quiera mandar un mensaje y crear un nuevo grupo en menos de un minuto.
 En un futuro, se espera que se puedan enviar mensajes, fotos, documentos y ecuaciones utilizando Latex sin fallas.
+
+## Criterios de suspención y requisitos de reanudación
+- Las pruebas que no necesitan al servidor del ITAM y se puedan hacer localmente se harán constantemente.
+- Ls pruebas que necesiten los servidores del ITAM se suspenderán si estos no están disponibles o si hay alguna falla de seguridad en la aplicación. En el momento en el que el problema se arregle las pruebas se reanudarán.
