@@ -54,3 +54,6 @@ En un futuro, se espera que se puedan enviar mensajes, fotos, documentos y ecuac
 
 ## Entregables de prueba
 El entregable de las pruebas será un documento detallado con las funcionalidades que se probaron, el modo en el que se implementaron las pruebas y los resultados de las métricas que se obtuvieron. En el caso de que sea una prueba del diseño de la aplicación se incluirá también la opinión de los usuarios en las diferentes funcionalidades que se probaron.
+
+## Tareas de prueba restantes
+Todas las pruebas de seguridad se espera que esten implementadas con los demás servicios que da el ITAM, entonces no se van a probar la encripción de los mensajes. Todas las otras funcionalidades de la aplicación sí se van a probar.
