@@ -84,3 +84,8 @@ El equipo de pruebas está formado con las cuatro personas que estan desarrollan
 
 ## Horario
 Se espera que haya un MVP de Espacio Itamita en 4 meses. El primer mes se utilizará para hacer el diseño y probarlo con los usuarios, después se le dedicarán dos meses al desarrollo y un mes más para hacer las pruebas finales. Después de eso se dedicarán 4 meses más para desarrollar los elementos con menor prioridad, como el chatbot, y hacer pruebas en estos elementos.
+
+## Planificación de riezgos y contingencias
+- Es posible que sea dificil hacer pruebas con usuarios para el diseño de la aplicación porque la situación de la pandemia actual dificulta las reuniones presenciales con los usuarios para hacer las pruebas. Para esto, se puede desarrollar una metodología para hacer las pruebas con los usuarios por internet, o tomar medidas de seguridad para prevenir contagios.
+- En caso de falta de personal suficiente para hacer las pruebas para la integración con los demás servicios del ITAM se extenderá el periodo de pruebas.
+- Si hay fallas en la integridad del proceso de pruebas será necesario hacer las pruebas de nuevo.
