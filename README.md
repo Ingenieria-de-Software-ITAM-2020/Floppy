@@ -1,8 +1,6 @@
 # Floppy
 
 ![Logo](https://github.com/Ingenieria-de-Software-ITAM-2020/Floppy/blob/main/Logo.png)
-## María Fernanda Martínez García 173872 
-
 # Índice
 - [Prototipo](https://pr.to/F2F5MF/)
 - [Software Requirements](Software%20Requirements.md)
@@ -11,3 +9,7 @@
 - [Metodología](Metodología.md)
 - [Instrucciones para replicar](Instrucciones%20para%20replicar.md)
 - [Casos de uso](Casos%20de%20uso.md)
+
+
+## María Fernanda Martínez García 173872 
+## Dan Jinich Fainsod             167907
