@@ -1,4 +1,4 @@
-Para entrar al prototipo solo es necesario hacer click [aquí](https://pr.to/F2F5MF/)
+Para entrar al prototipo solo es necesario hacer click [aquí](https://pr.to/F2F5MF/).
 
 ## Inicio
 ![inicio](imagenes/8%20-%20Home.png)
@@ -36,4 +36,8 @@ En esta pantalla se puede ver el perfil del usuario. El boton con la flecha en l
 
 En esta pantalla es en la que se crearia un grupo. El boton rosa que dice abajo INGENIERIA DE SOFTWARE nos lleva a la pantalla con la Lista de estudiantes en el grupo, si seleccionamos a Earl Oliver lo agrega al grupo. El boton de regresar en la esquina superior derecha nos lleva a la pantalla de Lista estudiante.
 
-## 
+## Lista de estudiantes en Ingenieria de software
+![is](https://github.com/Ingenieria-de-Software-ITAM-2020/Floppy/blob/main/imagenes/2%20-%20Grupo%20IS.png)
+
+En esta pantalla se pueden ver los estudiantes de la materia para poder agregarlos al grupo. Si se selecciona a Earl Oliver, el es agregado al grupo y regresas a la pantalla de crear grupo. El boton regresar tambien lleva a la pantalla de crear grupo.
+
