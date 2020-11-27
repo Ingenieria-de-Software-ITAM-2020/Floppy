@@ -57,3 +57,9 @@ El entregable de las pruebas será un documento detallado con las funcionalidade
 
 ## Tareas de prueba restantes
 Todas las pruebas de seguridad se espera que esten implementadas con los demás servicios que da el ITAM, entonces no se van a probar la encripción de los mensajes. Todas las otras funcionalidades de la aplicación sí se van a probar.
+
+## Necesidades ambientales
+Para pruebas generales de la aplicación se requieren:
+ - Un dispositivo iPhone y Android.
+ - Acceso a internet.
+ - Un usuario para los servicios del ITAM.
