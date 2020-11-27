@@ -63,3 +63,6 @@ Para pruebas generales de la aplicación se requieren:
  - Un dispositivo iPhone y Android.
  - Acceso a internet.
  - Un usuario para los servicios del ITAM.
+
+## Necesidades de personal y capacitación
+Para llevar a cabo las primeras pruebas del prototipo el personal que haga las pruebas no necesita ninguna capacitación ademas de entender completamente la funcionalidad que está probando y las métricas que se estarán usando para probar dicha funcionalidad.
