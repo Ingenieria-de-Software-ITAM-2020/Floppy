@@ -10,7 +10,7 @@
 - [Instrucciones para replicar](Instrucciones%20para%20replicar.md)
 - [Casos de uso](Casos%20de%20uso.md)
 - [Presentación](proyecto%20final.pdf)
-
+- [Video](prototipo.mp4)
 
 ## María Fernanda Martínez García 173872 
 ## Dan Jinich Fainsod             167907
