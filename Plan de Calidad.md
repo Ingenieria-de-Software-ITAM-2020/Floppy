@@ -81,3 +81,6 @@ El equipo de pruebas está formado con las cuatro personas que estan desarrollan
 - Eyal Schuller
   - Los profesores, alumnos y personal administrativo estan organizados en su carpeta correspondiente.
   - Habrá un chatbot para ayudar a los usuarios y responder posibles dudas que tengan.
+
+## Horario
+Se espera que haya un MVP de Espacio Itamita en 4 meses. El primer mes se utilizará para hacer el diseño y probarlo con los usuarios, después se le dedicarán dos meses al desarrollo y un mes más para hacer las pruebas finales. Después de eso se dedicarán 4 meses más para desarrollar los elementos con menor prioridad, como el chatbot, y hacer pruebas en estos elementos.
