@@ -41,3 +41,13 @@ En esta pantalla es en la que se crearia un grupo. El boton rosa que dice abajo 
 
 En esta pantalla se pueden ver los estudiantes de la materia para poder agregarlos al grupo. Si se selecciona a Earl Oliver, el es agregado al grupo y regresas a la pantalla de crear grupo. El boton regresar tambien lleva a la pantalla de crear grupo.
 
+## Chat 
+![fer1](https://github.com/Ingenieria-de-Software-ITAM-2020/Floppy/blob/main/imagenes/6%20-%20Chat%20compa%E2%95%9Fero.png) ![pau](https://github.com/Ingenieria-de-Software-ITAM-2020/Floppy/blob/main/imagenes/10%20-%20Chat%20Pau.png)
+
+En estas pantallas se pueden ver los chats con distintas personas. En ambas pantallas, si se pica el boton en la esquina superior izquierda el prototipo regresa a la pantalla anterior. En el chat con María Fernanda Martínez, si se trata de mandar un mensaje, aparece un mensaje de advertencia sobre lenguaje violento y si se selecciona el boton con el simbolo de adicion, aparece un menu con las opciones de que se puede agregar en el chat.
+![fer2](https://github.com/Ingenieria-de-Software-ITAM-2020/Floppy/blob/main/imagenes/5%20-%20Chat%20compa%E2%95%9Fero.png) ![fer3](https://github.com/Ingenieria-de-Software-ITAM-2020/Floppy/blob/main/imagenes/12%20-%20Chat%20compa%E2%95%9Fero.png)
+
+## Chat con colmillo
+![colmillo](https://github.com/Ingenieria-de-Software-ITAM-2020/Floppy/blob/main/imagenes/7%20-%20Screen%2011.png)
+
+Es similar a la ventana de chat con Paulina Ocampo, pero en esta pantalla se puede ver al chat-bot que se llama colmillo. 
